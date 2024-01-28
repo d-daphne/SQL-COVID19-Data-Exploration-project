@@ -15,7 +15,7 @@ This project explores the real world Covid-19 data dated prior to April 2021. Nu
 
 ## Running
 Perfomr a series of SQL queries to extract crucial data and analyze the trends including:
-  - `SELECT` _column name_ `FROM` _table name_ `WHERE` _condition_;
+  - `WHERE`
   - `MIN` `MAX` `SUM` functions
   - `PARTITION BY`
   - `CREATE TABLE`
@@ -23,7 +23,6 @@ Perfomr a series of SQL queries to extract crucial data and analyze the trends i
   - `JOIN`
   - `INSERT INTO`
   - `CREATE VIEW`
-
-
+    
 ## Inspiration
 This project is inspired by Alex The Analyst tutorial by [@AlexTheAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1). 
