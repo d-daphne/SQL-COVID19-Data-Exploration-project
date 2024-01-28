@@ -10,8 +10,8 @@ This project explores the real world Covid-19 data dated prior to April 2021. Nu
   - Microsoft SQL Server Management Studio
   - Microsoft Excel
 - Dataset: download from [Our World in Data](https://ourworldindata.org/covid-deaths), this file is in CSV. Data is seperated and saved into 2 xlsx files in order to perform `JOIN` clause between two tables.
-  1. CovidDeaths that keeps column A - Z.
-  2. CovidVaccinations that keeps column A - D and AA to the end.
+  1 CovidDeaths that keeps column A - Z.
+  2 CovidVaccinations that keeps column A - D and AA to the end.
 - Import data into SQL Server for analysis.
 
 
