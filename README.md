@@ -4,5 +4,9 @@ This project explores the real world Covid-19 data dated prior to April 2021. Nu
 ## Getting Started
 ### Prerequisites
 - Software
-  Microsoft SQL Server Management Studio, download
+  - Microsoft SQL Server Management Studio, download
+
+
+
+   Microsoft SQL Server Management Studio, download
 - Download dataset from [Our World in Data](https://ourworldindata.org/covid-deaths). The file is in CSV
