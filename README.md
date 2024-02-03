@@ -8,7 +8,7 @@ This project explores the real world Covid-19 data dated prior to April 2021. Th
 ### Prerequisites
 - Microsoft SQL Server Management Studio
 - Microsoft Excel
-- 
+  
 ### Installing
 - Dataset: download from [Our World in Data](https://ourworldindata.org/covid-deaths), this file is in CSV. Data is seperated and saved into 2 xlsx files in order to perform `JOIN` clause between two tables.
   - CovidDeaths that keeps column A - Z.
