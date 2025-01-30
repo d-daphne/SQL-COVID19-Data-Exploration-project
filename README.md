@@ -16,7 +16,7 @@ This project explores the real world Covid-19 data dated prior to April 2021. Th
 - Import data into SQL Server for analysis.
 
 ## Running
-Perfomr a series of SQL queries to extract crucial data and analyze the trends including:
+Perform a series of SQL queries to extract crucial data and analyze the trends including:
   - `WHERE`
   - `MIN` `MAX` `SUM` functions
   - `PARTITION BY`
